@@ -5386,3 +5386,125 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:36:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:36:46] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:36:46] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:36:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12', 'Name': 'Manoj Kumar ', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Super'}, {'Product': 'iphone12', 'Name': 'Shivam Thakur', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'I am very happy with I phone 12Very Nice Product Thanku Flipkart'}, {'Product': 'iphone12', 'Name': 'Rupesh Thik', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Awesome Camera'}, {'Product': 'iphone12', 'Name': 'Sivaramaraju Raju', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Best iPhone till date \U0001f495'}, {'Product': 'iphone12', 'Name': 'Sibsankar Das', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Camera quality is just fabulous. Interface is very smooth.  Good for photography and videography.'}, {'Product': 'iphone12', 'Name': 'Arjun  Chakravarti ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Awesome'}, {'Product': 'iphone12', 'Name': 'Jaya chandra  Reddy', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Amazing phone  In love with this phone'}, {'Product': 'iphone12', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Everything is great except the battery life, camera is awesome'}, {'Product': 'iphone12', 'Name': 'Ankur Sharma', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'display is good , processor is awesome'}, {'Product': 'iphone12', 'Name': 'Sunita  Yadav', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'This is the value for money phone. For Flipkart:On time delieveryAlways best serviceFeedback call received after 5 daysApple:One word: SuperbPicture Quality Ultimate'}, {'Product': 'iphone12', 'Name': 'Sunita  Yadav', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'This is the value for money phone. For Flipkart:On time delieveryAlways best serviceFeedback call received after 5 daysApple:One word: SuperbPicture Quality Ultimate'}]
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:37:09] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:37:09] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:37:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:47:20] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:47:20] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:47:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'gym', 'Name': 'Kuhu Dasmal', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Good \U0001f44d'}, {'Product': 'gym', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': 'Useful to travel with. Very light mat.'}, {'Product': 'gym', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Very good item'}, {'Product': 'gym', 'Name': 'Govind P S', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Good product'}, {'Product': 'gym', 'Name': 'Flipkart Customer', 'Rating': '3', 'CommentHead': 'Good', 'Comment': 'Not as smooth as expected liytle sturdy but good grip over floor'}, {'Product': 'gym', 'Name': 'satyendra  Hazarika', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Good quality material n space coverage'}, {'Product': 'gym', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Very nice cushioning and gives premium feel ...though the cover is not that gud but the mat is ossum'}, {'Product': 'gym', 'Name': 'Mursalim Khan', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Nice'}, {'Product': 'gym', 'Name': 'Flipkart Customer', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': 'So much longer not for kids'}, {'Product': 'gym', 'Name': 'Flipkart Customer', 'Rating': '1', 'CommentHead': 'Very poor', 'Comment': 'The mat is good but the carry bag did not even last for a week. The delivery of the product was horrible. Not going to recommend any one.'}, {'Product': 'gym', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'The mat is good but the carry bag did not even last for a week. The delivery of the product was horrible. Not going to recommend any one.'}]
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:47:21] "POST /review HTTP/1.1" 200 -
+INFO:root:log my final result []
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:47:29] "POST /review HTTP/1.1" 200 -
+INFO:root:log my final result []
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:47:59] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:47:59] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:47:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'realme8i', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Theis is awesome'}, {'Product': 'realme8i', 'Name': 'Jay KAHAR', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice product..'}, {'Product': 'realme8i', 'Name': 'Ummed Kumar', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Awesome mobile in this budget\U0001f4f1Display \u27a1\ufe0f6.60-inch (1080x2412)\U0001f4f1Processor\u27a1\ufe0f MediaTek Helio G96\U0001f39e\ufe0fFront Camera \u27a1\ufe0f 16MP\U0001f39e\ufe0fRear Camera \u27a1\ufe0f50MP + 2MP + 2MP\U0001f50bBattery Capacity \u27a1\ufe0f5000mAh'}, {'Product': 'realme8i', 'Name': 'Suvasis Malakar', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Just awesome\U0001f60a\U0001f60a, camera gorgeous in night and display is so smooth and product is so handy\u2764\u2764'}, {'Product': 'realme8i', 'Name': 'santosh singh', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'My first go with Realme is awesome'}, {'Product': 'realme8i', 'Name': 'Rahul Gupta', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'good camera quality'}, {'Product': 'realme8i', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Really very good phone fully satisfiedI have shared potrait pics from this phone'}, {'Product': 'realme8i', 'Name': 'Mazhar  Fatma ', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Amazing'}, {'Product': 'realme8i', 'Name': 'Murty Tarigoppala', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Good'}, {'Product': 'realme8i', 'Name': 'Panjarul Ali', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Tnk you Realme awesome phone and so so smooth'}, {'Product': 'realme8i', 'Name': 'Panjarul Ali', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Tnk you Realme awesome phone and so so smooth'}]
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:48:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:48:49] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 12:48:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'realme8i', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Theis is awesome'}, {'Product': 'realme8i', 'Name': 'Jay KAHAR', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice product..'}, {'Product': 'realme8i', 'Name': 'Ummed Kumar', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Awesome mobile in this budget\U0001f4f1Display \u27a1\ufe0f6.60-inch (1080x2412)\U0001f4f1Processor\u27a1\ufe0f MediaTek Helio G96\U0001f39e\ufe0fFront Camera \u27a1\ufe0f 16MP\U0001f39e\ufe0fRear Camera \u27a1\ufe0f50MP + 2MP + 2MP\U0001f50bBattery Capacity \u27a1\ufe0f5000mAh'}, {'Product': 'realme8i', 'Name': 'Suvasis Malakar', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Just awesome\U0001f60a\U0001f60a, camera gorgeous in night and display is so smooth and product is so handy\u2764\u2764'}, {'Product': 'realme8i', 'Name': 'santosh singh', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'My first go with Realme is awesome'}, {'Product': 'realme8i', 'Name': 'Rahul Gupta', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'good camera quality'}, {'Product': 'realme8i', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Really very good phone fully satisfiedI have shared potrait pics from this phone'}, {'Product': 'realme8i', 'Name': 'Mazhar  Fatma ', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Amazing'}, {'Product': 'realme8i', 'Name': 'Murty Tarigoppala', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Good'}, {'Product': 'realme8i', 'Name': 'Panjarul Ali', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Tnk you Realme awesome phone and so so smooth'}, {'Product': 'realme8i', 'Name': 'Panjarul Ali', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Tnk you Realme awesome phone and so so smooth'}]
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 17:05:45] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 17:05:45] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 17:05:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:HTTP Error 408: Request Timeout
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 17:06:25] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 17:07:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 17:07:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 17:07:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone13', 'Name': 'Sivam Ray', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Camera  is superb \U0001fae1\u2764\ufe0f'}, {'Product': 'Iphone13', 'Name': 'Pushpita Mayra', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Awesome phone Excellent camera quality'}, {'Product': 'Iphone13', 'Name': 'Arnab Das', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Awesome battery backup amazing camera, a all day batter backup  improved and brilliant IOs 16.1 oled display dolby speakers and lot more, just close your eyes and go for it. One of the best handy smartphones ever and in great discount given by flipkart in big billion days \U0001f525'}, {'Product': 'Iphone13', 'Name': 'Badri Bishal  Pratihari ', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Love this phone..... \U0001f60d'}, {'Product': 'Iphone13', 'Name': 'Mahim Chauhan', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I switch to ios from android after 10 years so this review might help for migratorsIt’s been a month using the iPhone13 and this was my experience1. Design - its simple and no nonsense design . Expect white and pink rest of the colours are fingerprint magnets.  I have seen all the colours and I highly recommend the pink . It’s so light pink which makes it not girlish. See it for yourself it really looks so premium in light pink colour. For rest of it except white the aluminium frame wil...'}, {'Product': 'Iphone13', 'Name': 'Shivang Palyal', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'This is awosome .. camera is best . Here some photos i m sharing with you guys ..'}, {'Product': 'Iphone13', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Happy to have this phone'}, {'Product': 'Iphone13', 'Name': 'Srinivash Bhoi', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Pros-rear Camera is awesome.double speaker sound equal loud and base is superb display superb. Design also good.Battery back up superb.Cons-front camera is good not awesomeAfter switching from android you feel one minus point is the display notch .'}, {'Product': 'Iphone13', 'Name': 'Peris Kumar Bhagat', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Great performance \U0001f970'}, {'Product': 'Iphone13', 'Name': 'Ajay Kr', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Awesome camera..I m love  it'}, {'Product': 'Iphone13', 'Name': 'Ajay Kr', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Awesome camera..I m love  it'}]
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 17:07:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 17:07:49] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2024 17:07:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
